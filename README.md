@@ -3,6 +3,9 @@
 Zilliverse spheres is a collection of 150 procedurally generated planets that will eventually be minted as NFTs.
 These code generated planets represents the world outsede of our solar system. And each of them are different fron each other, in inclusion to that every planet has its unique name as well. These names are randomly generated from a combination of 26 aplhabets and numbers from 0-9.
 
+This particular NFT collection is an extention to one of my previous work.
+You can find the code for this project in my other [**repository.**](https://github.com/masket-bask/planet-gen)
+
 ### A couple examples: 
 
 ![examples](./example2.png)
