@@ -1,6 +1,6 @@
 # Zilliverse spheres
 
-Cryptospheres is a collection of 150 procedurally generated planets that will eventually be minted as NFTs.
+Zilliverse spheres is a collection of 150 procedurally generated planets that will eventually be minted as NFTs.
 
 ### A couple examples: 
 
