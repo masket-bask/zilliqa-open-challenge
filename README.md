@@ -2,12 +2,6 @@
 
 Cryptospheres is a collection of 150 procedurally generated planets that will eventually be minted as NFTs.
 
-## Version 1
-I wrote version 1 a pretty long time ago, it was intitially intended to be a social media bot that posted a new planet hourly.
-You can find the code for the first one in [this repo](https://github.com/andithemudkip/planet-gen) along with examples of what it can generate.
-## Version 2
-Version 2 includes some special sauce that makes the planets look **a lot** more artistic and just overall nice imo.
-
 ### A couple examples: 
 
 ![examples](./example2.png)
