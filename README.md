@@ -1,6 +1,7 @@
 # Zilliverse spheres
 
 Zilliverse spheres is a collection of 150 procedurally generated planets that will eventually be minted as NFTs.
+These code generated planets represents the world outsede of our solar system.
 
 ### A couple examples: 
 
